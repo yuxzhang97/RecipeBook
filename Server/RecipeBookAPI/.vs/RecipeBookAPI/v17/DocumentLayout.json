@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodingPractice\\RecipeBook\\Server\\RecipeBookAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27CF96B2-1B03-4174-999C-6805EBDFACA3}|RecipeBookAPI\\RecipeBookAPI.csproj|d:\\codingpractice\\recipebook\\server\\recipebookapi\\recipebookapi\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CF96B2-1B03-4174-999C-6805EBDFACA3}|RecipeBookAPI\\RecipeBookAPI.csproj|solutionrelative:recipebookapi\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CF96B2-1B03-4174-999C-6805EBDFACA3}|RecipeBookAPI\\RecipeBookAPI.csproj|d:\\codingpractice\\recipebook\\server\\recipebookapi\\recipebookapi\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CF96B2-1B03-4174-999C-6805EBDFACA3}|RecipeBookAPI\\RecipeBookAPI.csproj|solutionrelative:recipebookapi\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 620,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "D:\\CodingPractice\\RecipeBook\\Server\\RecipeBookAPI\\RecipeBookAPI\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "RecipeBookAPI\\Models\\Ingredient.cs",
+              "ToolTip": "D:\\CodingPractice\\RecipeBook\\Server\\RecipeBookAPI\\RecipeBookAPI\\Models\\Ingredient.cs",
+              "RelativeToolTip": "RecipeBookAPI\\Models\\Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:50:08.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "D:\\CodingPractice\\RecipeBook\\Server\\RecipeBookAPI\\RecipeBookAPI\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "RecipeBookAPI\\Models\\Recipe.cs",
+              "ToolTip": "D:\\CodingPractice\\RecipeBook\\Server\\RecipeBookAPI\\RecipeBookAPI\\Models\\Recipe.cs",
+              "RelativeToolTip": "RecipeBookAPI\\Models\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:44:19.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
