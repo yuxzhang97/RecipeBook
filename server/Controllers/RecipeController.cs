@@ -38,5 +38,35 @@ namespace server.Controllers
 
             return Ok(recipe);
         }
+
+        [HttpPost]
+        public async Task<ActionResult> addNewRecipe(Recipe recipe)
+        {
+            try
+            {
+                await _recipeService.AddRecipeAsync(recipe);
+                return Ok(recipe);
+            }
+            catch
+            {
+                return BadRequest();
+            }
+        }
+
+        [HttpPut]
+        public async Task<ActionResult> updateRecipe(int id, Recipe recipe)
+        {
+            try
+            {
+                await _recipeService.UpdateRecipeAsync(id, recipe);
+                return Ok(recipe);
+            }
+            catch
+            {
+                return BadRequest();
+            }
+
+
+        }
     }
 }
